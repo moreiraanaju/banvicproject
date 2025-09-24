@@ -1,0 +1,11 @@
+data/raw/
+data/processed/
+data/interim/
+data/final/
+venv/
+.env
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.DS_Store
+credentials.json
