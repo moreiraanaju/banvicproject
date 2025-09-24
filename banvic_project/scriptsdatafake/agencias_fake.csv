@@ -1,0 +1,11 @@
+cod_agencia,nome,endereco,cidade,uf,data_abertura,tipo_agencia
+1,Agência Alves,"Conjunto Sousa, 9 Bonsucesso 00133-890 Silva / RS",Campinas,RR,2010-07-24,Física
+2,Agência Câmara dos Dourados,"Esplanada Sampaio, 55 Conjunto Califórnia Ii 51161559 Aparecida dos Dourados / PI",Porto Alegre,AM,2013-02-17,Física
+3,Agência Barros da Prata,"Vale de Fonseca, 131 Vila Ecológica 41316475 Freitas / MS",Recife,DF,2010-09-18,Física
+4,Agência Sampaio de Minas,"Feira de Castro, 56 Nova Vista 50305641 Nunes / RR",Porto Alegre,MT,2015-03-21,Física
+5,Agência Rezende,"Quadra de Casa Grande, 42 Vila Piratininga Venda Nova 96965-328 Borges de Sá / AL",Porto Alegre,AM,2022-03-23,Física
+6,Agência Pires,"Praça de Peixoto, 7 Mineirão 84801-845 da Rocha / PA",Curitiba,CE,2023-03-21,Física
+7,Agência Abreu de Silveira,"Rodovia Caldeira, 48 Conjunto Califórnia I 28809-570 Fonseca / TO",Osasco,SE,2019-06-25,Digital
+8,Agência da Costa do Norte,"Chácara Siqueira, 91 Vila São Dimas 27824896 Nogueira / SP",Osasco,SC,2014-10-30,Física
+9,Agência Silva,"Via de Freitas, 88 Capitão Eduardo 31509839 Abreu / AP",Campinas,RR,2018-07-10,Digital
+10,Agência da Conceição,Campo Olívia da Costa Itatiaia 38299-737 Correia do Campo / AM,Florianópolis,RO,2023-07-17,Física

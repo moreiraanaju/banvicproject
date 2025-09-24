@@ -1,0 +1,101 @@
+cod_cliente,primeiro_nome,ultimo_nome,email,tipo_cliente,data_inclusao,cpfcnpj,data_nascimento,endereco,cep
+1,Isis,Siqueira,henrique33@example.org,PJ,2021-01-05 04:32:41 UTC,65.937.048/0001-76,,"Estação Agatha Martins, 81 Vitoria Da Conquista 08013267 Cunha de Guerra / AL",60647468
+2,Ana Sophia,Araújo,pachecomaria-liz@example.net,PJ,2015-11-19 20:05:57 UTC,72.381.046/0001-09,,Chácara de Cirino Betânia 36193990 Leão / RO,43534-624
+3,Stephany,Cunha,joao51@example.org,PJ,2021-06-22 07:00:03 UTC,75.103.468/0001-00,,"Praia Nogueira, 99 Aeroporto 12411-824 Pereira do Oeste / RR",34874016
+4,Letícia,Novais,camargodom@example.net,PF,2023-09-02 10:32:10 UTC,408.216.593-24,1999-04-29,"Núcleo Pacheco, 326 Araguaia 50533-158 Pinto Grande / ES",26025634
+5,Clara,das Neves,pietroalves@example.net,PF,2018-02-12 16:30:29 UTC,216.703.854-26,1949-01-22,"Ladeira Davi Miguel Vargas, 95 Nossa Senhora Aparecida 01429-401 Ferreira Alegre / PA",69340608
+6,Josué,Silveira,natalia46@example.com,PJ,2016-10-28 13:28:40 UTC,83.590.246/0001-98,,"Sítio José Miguel Correia, 36 Vila Antena 68044-369 Martins dos Dourados / PB",87214895
+7,Samuel,Melo,marqueskamilly@example.net,PJ,2022-11-14 23:35:39 UTC,13.496.508/0001-74,,"Parque de Monteiro, 33 Vila Das Oliveiras 16328708 Campos / PB",78895798
+8,Yuri,Vargas,ppires@example.com,PF,2016-10-31 16:49:49 UTC,687.153.490-39,1987-12-02,Lago de da Costa Independência 58122-362 Azevedo / PA,58760-366
+9,Stephany,Souza,mariahcamara@example.com,PF,2023-08-14 02:02:11 UTC,906.382.417-31,2001-06-02,"Parque Fernandes, 82 Sion 98069901 Carvalho dos Dourados / CE",46537556
+10,Clara,Câmara,vasconcelosbruno@example.org,PF,2018-01-01 02:24:35 UTC,469.803.527-92,1968-04-19,"Vale Cassiano, 82 Vila Fumec 93745299 Vasconcelos / TO",41904966
+11,Bryan,Ferreira,xribeiro@example.org,PJ,2017-05-20 23:51:49 UTC,31.905.264/0001-18,,Residencial Heitor Lopes Marieta 1ª Seção 26284-987 Lopes de Siqueira / RJ,53147-379
+12,Otávio,Fogaça,carolina49@example.net,PJ,2016-08-08 09:38:38 UTC,96.503.217/0001-93,,"Rua Correia, 4 Vila Nova Gameleira 2ª Seção 78377-701 Câmara das Flores / RR",49578856
+13,Ravi,Campos,ana-vitoriacampos@example.net,PJ,2023-05-18 21:17:02 UTC,85.973.241/0001-70,,"Recanto da Mota, 589 Caiçara - Adelaide 43524082 Aparecida do Norte / PI",27109-477
+14,Isadora,Mendonça,oliveiracaue@example.org,PJ,2019-01-22 07:59:06 UTC,75.209.364/0001-85,,"Lagoa de Barros, 91 Vila Santo Antônio Barroquinha 99938-677 Pastor das Pedras / MA",91334123
+15,Ana,Andrade,aliciasantos@example.com,PF,2016-01-08 01:42:55 UTC,281.703.496-13,1985-09-17,Fazenda de da Luz Vila Suzana Primeira Seção 61832421 Cavalcante / SE,99471746
+16,Theodoro,Alves,da-conceicaoasafe@example.net,PF,2023-11-19 15:22:13 UTC,487.309.512-32,1996-04-16,"Estação Melo, 374 Trevo 71756-551 Farias / PA",46807154
+17,Cauê,Correia,melina70@example.org,PJ,2019-04-13 21:41:44 UTC,51.674.038/0001-80,,"Lago Macedo, 11 Vila Boa Vista 24808613 Martins / AM",74846773
+18,Yuri,Vargas,yfernandes@example.net,PJ,2021-03-16 00:25:04 UTC,78.231.450/0001-82,,"Lago Silveira, 89 Santa Monica 78755886 Duarte de Correia / RR",96360576
+19,Guilherme,Moura,ualbuquerque@example.org,PF,2023-06-03 09:42:53 UTC,627.014.895-20,2001-02-27,"Distrito de Barbosa, 64 Vila Barragem Santa Lúcia 15865-780 da Costa / RS",31611724
+20,Lorena,Casa Grande,sofiajesus@example.net,PJ,2016-04-01 10:41:09 UTC,09.568.241/0001-06,,"Chácara Pimenta, 49 Santa Isabel 37474074 Barbosa / PB",94647-436
+21,Ana Carolina,Almeida,ada-mota@example.net,PJ,2015-01-14 09:35:22 UTC,71.394.256/0001-79,,"Residencial de da Paz, 69 Estrela 94210470 Siqueira Grande / AP",56232858
+22,Dom,Casa Grande,isabellanovais@example.com,PF,2022-01-05 10:51:57 UTC,842.736.901-87,1985-07-18,"Aeroporto Vinícius Nascimento, 8 Marilandia 96513-709 Pimenta de Goiás / RS",74612004
+23,Valentina,Leão,kamillyrezende@example.org,PF,2023-07-21 05:52:54 UTC,718.946.352-64,1953-09-17,"Ladeira Benício Sales, 83 Paraíso 51585064 Campos / TO",13900532
+24,Juan,Viana,da-motajoao-vitor@example.org,PF,2020-06-24 00:42:32 UTC,931.647.508-20,1993-09-25,"Condomínio Ribeiro, 3 Alpes 39502-402 Moura do Campo / SC",77589178
+25,Isadora,Lima,mendoncalivia@example.org,PJ,2018-06-13 08:43:05 UTC,30.495.871/0001-94,,"Distrito de Azevedo, 94 Vila Nova Cachoeirinha 2ª Seção 69847-896 Vieira / RR",83673657
+26,Maria Júlia,Azevedo,barrosfrancisco@example.com,PF,2015-10-11 19:23:42 UTC,691.238.470-69,1947-09-07,"Núcleo de Cardoso, 909 Serra Do Curral 16560-494 Caldeira Verde / PE",27315851
+27,Benjamin,Cirino,ana-luiza55@example.org,PF,2021-03-01 06:00:43 UTC,436.795.021-25,1999-03-10,"Travessa Ribeiro, 31 Vila Pinho 18366752 das Neves Alegre / SP",02290147
+28,Lorena,Camargo,mariah84@example.org,PJ,2017-05-17 19:38:06 UTC,67.832.104/0001-33,,"Avenida de Abreu, 44 Vila São Dimas 44510762 Garcia / PI",88516060
+29,Amanda,Camargo,ualmeida@example.org,PF,2019-06-23 23:39:40 UTC,715.436.928-00,2003-12-17,"Núcleo de Borges, 41 Olhos D'água 81645-352 Moraes / RS",88355231
+30,Marina,Martins,krodrigues@example.net,PJ,2016-05-10 09:01:33 UTC,24.318.607/0001-82,,"Largo de Cassiano, 81 Paquetá 49058-147 Andrade de Araújo / MS",11998-679
+31,Maria Laura,Montenegro,davimachado@example.org,PJ,2015-03-28 21:25:10 UTC,80.764.123/0001-38,,"Rodovia Ramos, 40 Vila Nova 78892-554 Jesus Alegre / RO",51518644
+32,José Pedro,Peixoto,das-nevesfernanda@example.net,PF,2022-12-09 22:58:39 UTC,925.041.873-60,1940-08-23,"Viaduto Sampaio, 916 Marieta 1ª Seção 54235733 Cassiano / AP",18880-592
+33,Caio,Jesus,renan79@example.com,PF,2015-10-18 18:43:11 UTC,962.184.573-46,1942-10-26,"Feira de das Neves, 63 Vila Inestan 74688-623 da Cunha / AL",58181-412
+34,Cecília,Alves,zaragao@example.net,PJ,2017-05-27 19:37:58 UTC,47.263.015/0001-06,,"Chácara Evelyn Câmara, 6 Funcionários 52204727 Pimenta de Abreu / AP",43289861
+35,Maria Cecília,Azevedo,monteirostella@example.org,PJ,2017-09-22 17:13:13 UTC,43.906.182/0001-77,,"Lago Lima, 6 Gameleira 21851-888 Gomes / PR",65405153
+36,Maria Fernanda,Sampaio,lpires@example.org,PF,2022-05-23 15:41:38 UTC,152.074.836-17,1948-06-17,"Área Ana Beatriz Costa, 4 Prado 54868740 da Paz / MS",54156676
+37,Laís,Barros,lpereira@example.net,PJ,2020-03-27 01:58:20 UTC,52.793.840/0001-52,,"Chácara Duarte, 84 Vale Do Jatoba 27570-596 Porto do Norte / AP",58202970
+38,Leandro,Rocha,xfreitas@example.com,PF,2023-03-02 12:21:13 UTC,213.659.480-05,1945-06-09,"Rua Fonseca, 55 Graça 02786814 Santos dos Dourados / DF",73121727
+39,Luiz Fernando,Vieira,nicole31@example.org,PF,2017-02-18 19:31:32 UTC,158.704.296-76,1962-04-22,"Alameda Eloah Novaes, 957 Cenaculo 14678669 Cardoso / MT",77852892
+40,Lucas,Castro,rael58@example.com,PJ,2017-01-21 10:08:29 UTC,26.087.413/0001-49,,"Vereda Novaes, 52 Vila Aeroporto Jaraguá 82992299 Nunes do Norte / TO",10943969
+41,Ana Cecília,Marques,salesdante@example.org,PF,2016-02-06 01:50:30 UTC,074.523.168-35,1979-10-03,"Quadra Nicolas Fernandes, 625 Vila Paquetá 62588-153 Campos de da Mata / PB",21046963
+42,Maysa,Almeida,goncalvesmirella@example.com,PF,2016-11-12 14:47:49 UTC,258.163.479-00,1948-05-14,"Morro de Aragão, 5 Santa Inês 48016-245 Fonseca do Norte / MG",98358416
+43,Isabel,Freitas,emanuelly23@example.net,PF,2016-11-05 13:47:52 UTC,874.695.032-00,1975-12-24,"Área Andrade, 85 São Cristóvão 29825-952 Pimenta da Mata / RJ",88879-470
+44,Maria Júlia,da Luz,cauapacheco@example.com,PJ,2017-12-22 16:33:58 UTC,59.134.208/0001-46,,"Vale de Vasconcelos, 42 Andiroba 30756263 Montenegro do Amparo / SC",28385786
+45,Vinícius,Pimenta,pcorreia@example.com,PJ,2016-09-26 06:54:50 UTC,52.748.693/0001-07,,"Lago Oliver Sales, 85 Maravilha 41986-652 Aparecida da Mata / RR",57473384
+46,Sofia,Câmara,cauabrito@example.com,PF,2015-09-07 11:25:04 UTC,842.095.167-67,1991-12-17,"Colônia João Guilherme Abreu, 826 Providencia 45401938 Cavalcanti / PA",06724004
+47,Mirella,Martins,matheus15@example.org,PJ,2020-08-21 19:20:15 UTC,91.523.470/0001-95,,"Estação Arthur Sousa, 44 Conjunto Providencia 68516-122 Duarte de da Cruz / AC",63745-499
+48,Liam,Guerra,isaac45@example.net,PF,2021-09-03 02:28:27 UTC,045.719.862-11,1956-09-02,"Recanto Cassiano, 69 Nova Esperança 83391-878 Barbosa Verde / AM",88398225
+49,Daniel,Marques,olivialeao@example.com,PF,2021-05-22 08:57:51 UTC,871.594.306-20,1976-03-22,"Viela Ana Liz Silveira, 7 Grota 39106518 Azevedo / PR",46226567
+50,Isaac,Cavalcanti,imoura@example.net,PF,2019-09-14 23:56:03 UTC,691.584.723-55,1995-07-26,"Alameda da Rosa, 78 São João 33752-431 Ribeiro / PA",33119079
+51,João Lucas,Montenegro,ravi-lucca95@example.net,PJ,2017-12-04 07:26:12 UTC,03.986.147/0001-90,,"Distrito Raquel Câmara, 54 Beira Linha 68705685 Jesus Grande / MA",28733427
+52,Ryan,da Cunha,biancaramos@example.org,PJ,2017-09-04 09:40:14 UTC,08.634.517/0001-44,,"Chácara Stella Silveira, 50 Minas Caixa 13983735 Albuquerque do Oeste / DF",73936385
+53,Eloah,Moraes,gmartins@example.net,PJ,2020-02-16 11:30:41 UTC,46.795.281/0001-17,,"Favela Ester Dias, 40 Vila Pinho 04899642 Farias / ES",93785477
+54,Sabrina,Andrade,rioscalebe@example.org,PF,2021-12-19 20:29:52 UTC,725.164.308-17,1940-11-01,"Fazenda de Azevedo, 40 Santa Rita De Cássia 50997-700 Albuquerque do Sul / PE",84086211
+55,Isabella,Barros,jade79@example.org,PF,2020-09-03 09:39:20 UTC,823.145.967-73,1988-03-26,"Chácara de Rezende, 2 Nossa Senhora De Fátima 68700-217 Ramos Alegre / RJ",80339740
+56,João Pedro,Sá,tbarbosa@example.org,PJ,2015-10-09 08:53:38 UTC,14.092.765/0001-03,,"Viela Valentina Farias, 22 Santa Maria 01631-599 Vasconcelos Alegre / AC",77358-662
+57,Enzo,da Mata,gabriellysilva@example.net,PF,2022-11-21 11:00:51 UTC,961.842.750-11,1979-04-24,"Largo Eloah Caldeira, 1 João Alfredo 54121-267 Caldeira do Sul / AP",81995604
+58,Lucca,Carvalho,ana-julia47@example.org,PF,2018-05-11 03:46:17 UTC,691.547.823-09,1999-12-01,"Ladeira Laura da Rosa, 61 Granja De Freitas 79937124 Gonçalves / MT",57569245
+59,Ryan,Duarte,yda-mota@example.com,PF,2016-03-14 20:08:32 UTC,937.218.654-64,1963-09-23,Estrada de Pastor São Paulo 80737416 Carvalho de Porto / MA,42661797
+60,Theo,Ribeiro,lucas-gabriel90@example.net,PJ,2021-10-13 07:40:07 UTC,96.840.253/0001-42,,"Praça Heitor Albuquerque, 5 Estrela Do Oriente 75679825 Mendes / AM",61125457
+61,Antonella,Azevedo,caio10@example.com,PF,2017-12-17 18:24:04 UTC,387.290.561-95,2001-09-04,"Feira Moreira, 38 Lindéia 73622-660 Machado / RJ",60334-191
+62,Sarah,Porto,hellena96@example.net,PF,2019-10-01 10:04:25 UTC,825.913.076-95,1948-04-12,"Quadra Luiz Felipe Rocha, 29 Vila Independencia 1ª Seção 51341252 Leão Grande / RJ",62782-827
+63,Antony,Mendonça,mathiasgomes@example.net,PJ,2023-08-25 04:45:46 UTC,42.873.901/0001-38,,"Residencial de Leão, 37 Bom Jesus 34043842 Nunes de Souza / SP",88191485
+64,Thales,da Rosa,machadovinicius@example.com,PJ,2016-10-23 16:05:12 UTC,80.741.392/0001-89,,"Feira Costela, 759 Conjunto Jatoba 33095849 Duarte / RR",49481260
+65,Isabel,Mendonça,vitor-gabrielpires@example.com,PJ,2021-04-16 00:21:07 UTC,42.816.759/0001-97,,"Vereda Vieira, 7 São Benedito 57759-017 Azevedo da Prata / MG",63745458
+66,Arthur Gabriel,Campos,lunnamarques@example.org,PF,2019-02-21 21:12:30 UTC,927.680.431-50,1988-12-11,"Conjunto de Rezende, 52 Buraco Quente 41520-643 Rezende de Minas / RR",03712938
+67,João,Mendes,da-conceicaohadassa@example.org,PJ,2016-06-06 01:31:22 UTC,70.852.936/0001-26,,Núcleo Ana Clara Carvalho Mineirão 21890927 Silveira do Oeste / RS,69731121
+68,Theo,Novaes,benjamim43@example.net,PF,2022-08-25 09:05:06 UTC,965.321.480-24,1972-02-06,"Lago Cauê Viana, 77 Camponesa 2ª Seção 79180552 Nunes das Pedras / MS",71091043
+69,Isadora,Barros,agathabarros@example.com,PJ,2023-10-01 20:23:05 UTC,09.642.731/0001-05,,"Distrito Nascimento, 26 João Paulo Ii 30316-179 das Neves / RO",10202758
+70,Bruna,Lima,sabrina14@example.net,PJ,2021-12-17 05:37:37 UTC,84.271.603/0001-18,,"Rodovia Eloah Araújo, 39 Marilandia 41913800 da Cruz / AL",56220863
+71,Isaque,Montenegro,cavalcantipietro@example.net,PF,2019-08-16 00:54:08 UTC,536.927.041-43,1954-07-30,"Quadra da Paz, 25 São Vicente 05349-493 Freitas de Pastor / PR",83206038
+72,Noah,Moura,larissamendonca@example.org,PJ,2023-10-10 14:59:24 UTC,50.987.326/0001-22,,"Chácara Caio da Conceição, 865 Vila Primeiro De Maio 91826199 Lopes / RO",34456557
+73,Lucas,Machado,adias@example.org,PF,2023-10-31 03:56:08 UTC,431.769.082-96,1963-12-08,"Praia das Neves, 24 Braúnas 49035213 Gonçalves do Galho / AL",42067-883
+74,José Pedro,Costa,rfreitas@example.net,PF,2017-03-28 16:45:32 UTC,179.680.432-04,1982-03-24,"Jardim de Barbosa, 2 Distrito Industrial Do Jatoba 21510-702 Silveira das Flores / PR",66253244
+75,Melina,Jesus,faraujo@example.com,PF,2022-05-27 07:01:53 UTC,720.465.183-90,1959-12-31,"Estrada Sara da Cruz, 606 Ribeiro De Abreu 59856-420 Peixoto de Goiás / AC",07859-321
+76,Hellena,Fogaça,luiz-gustavoda-costa@example.net,PJ,2015-10-12 10:09:45 UTC,39.475.012/0001-08,,"Vila de Fogaça, 305 Serra Verde 78427010 Pereira / ES",87059325
+77,Sara,Fonseca,freitasisabela@example.net,PJ,2022-08-15 19:31:22 UTC,25.071.486/0001-80,,"Largo João Gabriel Castro, 67 Conjunto Providencia 39264-422 Sampaio / RJ",90295-939
+78,Lucas Gabriel,Porto,santosbruna@example.com,PF,2017-01-01 21:08:19 UTC,172.850.936-02,1950-05-07,"Feira Sales, 6 Grotinha 00676267 Ferreira da Prata / MG",79327104
+79,Lorenzo,Siqueira,novaesfrancisco@example.com,PJ,2015-06-06 03:56:48 UTC,05.496.213/0001-70,,"Praça Rezende, 79 Conjunto Capitão Eduardo 15336884 da Rosa de Goiás / AM",69872050
+80,Gael,Alves,luigiporto@example.com,PJ,2023-03-04 11:25:14 UTC,61.495.730/0001-03,,"Lagoa Viana, 87 Luxemburgo 18625-652 Aparecida de da Luz / PB",43490-211
+81,Stella,Rodrigues,poliveira@example.com,PF,2017-02-17 09:16:26 UTC,586.741.092-76,1974-07-23,Área Milena Oliveira Mangabeiras 17223320 Barros das Pedras / DF,94511686
+82,Kamilly,Cassiano,guilhermecaldeira@example.net,PJ,2015-01-07 18:55:46 UTC,85.473.096/0001-68,,"Setor Catarina Jesus, 86 Sport Club 02462-996 Gonçalves / MT",07450544
+83,Aurora,da Mata,ppereira@example.org,PF,2015-10-14 12:01:19 UTC,471.685.239-37,1972-09-03,"Pátio Sousa, 68 Estoril 82148628 Cavalcanti / DF",03070534
+84,Maitê,Cavalcanti,jpastor@example.com,PF,2020-09-08 11:15:38 UTC,576.908.132-59,2004-07-27,"Vila Fernando da Paz, 7 Baleia 93333468 Vasconcelos / SP",72290349
+85,Maria Flor,da Rosa,gpacheco@example.org,PJ,2019-07-07 10:45:52 UTC,49.632.750/0001-75,,"Trevo de Pereira, 24 Rio Branco 54544432 Araújo / SE",52074466
+86,Natália,da Rosa,luiz-miguelda-rocha@example.org,PF,2022-08-06 06:20:10 UTC,603.251.794-25,1977-09-20,"Jardim de Silveira, 225 Estrela Do Oriente 34655-494 Campos de Melo / AL",73816846
+87,Ana Vitória,Silva,enricomendonca@example.com,PJ,2019-07-22 19:56:59 UTC,02.817.349/0001-46,,"Avenida de Abreu, 44 Vila Santa Rosa 92712966 Lima do Amparo / MG",08350583
+88,Gustavo,Gomes,lucas-gabriel10@example.com,PJ,2018-03-21 07:39:09 UTC,09.315.248/0001-16,,"Rua de Peixoto, 356 Mangueiras 53260-332 Siqueira / AC",15064890
+89,Lívia,Garcia,novaesthiago@example.com,PJ,2020-03-19 16:05:05 UTC,90.158.647/0001-39,,"Viela de Pires, 5 Nova Pampulha 84992618 da Paz / AM",73934835
+90,Bianca,da Costa,albuquerquefelipe@example.org,PF,2023-11-26 06:10:41 UTC,642.083.175-07,1985-11-10,"Rodovia Barbosa, 5 Vila Copasa 74470120 Fonseca Alegre / PA",10022557
+91,Isabelly,Marques,helena76@example.net,PJ,2020-10-12 23:02:40 UTC,94.126.708/0001-37,,Vila Silveira Beija Flor 16979729 Vasconcelos da Praia / RN,27716701
+92,Rafaela,Moreira,lopestheo@example.com,PF,2017-07-09 07:15:00 UTC,450.869.123-42,1961-01-26,"Via de Gomes, 18 Aguas Claras 87721753 da Mota do Norte / PE",86631779
+93,Gustavo,Guerra,jandrade@example.net,PF,2021-11-08 02:39:05 UTC,719.320.654-07,1961-12-19,"Trevo Pinto, 98 Dom Silverio 55037-589 Silva de Ribeiro / MS",11305-548
+94,Heitor,da Cunha,marcos-viniciuscampos@example.com,PF,2020-07-17 14:33:03 UTC,851.073.924-23,2004-06-11,"Loteamento Caldeira, 20 Vila São Gabriel Jacui 79827-080 Pacheco do Amparo / PE",92216995
+95,Ana Beatriz,Machado,joao-guilhermejesus@example.net,PF,2017-06-15 06:24:13 UTC,869.451.273-46,1949-07-24,"Sítio de Dias, 433 Vila Barragem Santa Lúcia 52288-515 Pacheco de Oliveira / RO",84608106
+96,Theodoro,Casa Grande,salesana-carolina@example.org,PJ,2015-07-25 20:17:40 UTC,20.819.653/0001-04,,"Colônia Pietro Souza, 963 Vila Sesc 06665-800 Costa dos Dourados / TO",59893347
+97,Liz,da Mota,jose-pedro29@example.com,PF,2023-12-27 16:55:01 UTC,219.854.063-06,1980-12-13,"Distrito Bruno Cassiano, 19 Vila São Geraldo 79851-583 Moreira / AP",68861533
+98,Antony,Camargo,maite39@example.net,PJ,2023-06-21 16:06:48 UTC,59.821.436/0001-94,,Largo de Garcia Serra 64840858 Mendonça de Aparecida / MA,58112880
+99,Stephany,Sampaio,eramos@example.net,PJ,2021-02-22 16:14:06 UTC,13.865.704/0001-79,,Loteamento Breno Borges Boa Esperança 24819346 Machado das Flores / PA,06180919
+100,Erick,da Paz,zgarcia@example.net,PJ,2020-01-18 09:26:12 UTC,01.549.263/0001-17,,"Setor Câmara, 96 Jardim Leblon 45088210 Oliveira / RN",88143536
